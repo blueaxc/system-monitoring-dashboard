@@ -3,7 +3,8 @@
 This project is a lightweight system monitoring dashboard built with **Flask**, **Docker**, and **Prometheus**.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](assets/dashboard.png)
+![image](https://github.com/user-attachments/assets/990af32e-7a40-4368-ad5a-7fcfa846192e)
+
 
 ## 🔧 Features
 - Real-time monitoring of:
